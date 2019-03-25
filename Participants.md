@@ -25,3 +25,4 @@
 * [Felipe Cerdas](mailto:f.cerdasg@tu-braunschweig.de) | [Github: Felipecerdasmarin](https://github.com/Felipecerdasmarin) (TU Braunschweig)
 * [Michele De Rosa](mailto:michele.derosa@bonsai.uno) | [Github: MicDr](https://github.com/MicDr) (BONSAI) 
 * [Romain Sacchi](mailto:r_s@me.com) | [Github: romainsacchi](https://github.com/romainsacchi) (Univ. Aalborg) 
+* [Elsa Valencia](mailto:valencia@pre-sustainability.com) | [Github: elsavalencia](https://github.com/elsavalencia) (Pré)
